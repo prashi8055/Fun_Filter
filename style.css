@@ -1,0 +1,107 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:Century Gothic;
+}
+body{
+  backfround-color:#33ccff;
+  background-image: url(http://cleanpublicdomain.com/wp-content/uploads/2020/08/pr.png);
+  background-repeat:none;
+}
+canvas{
+  position:relative;
+  border:2px solid black;
+  width:50%;
+  height:auto;
+  left:100px;
+  margin-top:100px;
+  
+}
+
+h4{
+  color:white;
+  text-align:center;
+}
+h2{
+  margin-top:-310px;
+  color:black;
+  font-family:CenturyGothic;
+  font-size:20pt;
+}
+.put
+{
+margin-top:30px;
+}
+#rainbowbtn{
+ background-image: linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+  color: white;
+  opacity: 0.7;
+  width:150px;
+  height:40px;
+  text-align:center;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size:10pt;
+}
+#rainbowbtn:hover{background-color:white; color:white; opacity:1;}
+#graybtn{
+  width:150px;
+  height:40px;
+  text-align:center;
+  color:white;
+  background-color:grey;
+  margin-top:20px;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size:10pt;
+}
+#graybtn:hover{ background-color:white;color:black;}
+#imgfile{
+   width:250px;
+  height:30px;
+  text-align:center;
+  color:white;
+  background-color:grey;
+  margin-top:-100px;
+}
+#redbtn{
+    width:150px;
+  height:40px;
+  text-align:center;
+  color:white;
+  background-color:red;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size:10pt;
+}
+#redbtn:hover{ background-color:white;color:black;}
+#blurbtn{
+    width:150px;
+  height:40px;
+  text-align:center;
+  color:white;
+  background-color:#25c7d9;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size:10pt;
+}
+#blurbtn:hover{background-color:white;color:black;}
+#resetbtn{
+   width:150px;
+  height:40px;
+  text-align:center;
+  color:white;
+  background-color:#248a16;
+  margin-bottom:20px;
+  font-weight:bold;
+  font-size:10pt;
+}
+#resetbtn:hover{background-color:white; color:black;}
+header{
+  background-image:url("http://cleanpublicdomain.com/wp-content/uploads/2020/04/dark-blue-background-with-stripe-pattern-vector-22975748-1.jpg");
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  text-align:center;
+  font-size:30pt;
+}
